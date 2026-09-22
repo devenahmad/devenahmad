@@ -11,7 +11,7 @@
   </defs>
 
   <!-- card -->
-  <rect x="1" y="1" width="898" height="198" rx="18" fill="url(#bg)" stroke="#C3DAFF" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="198" rx="18" fill="url(#bg)" stroke="#11205B" stroke-width="1.5"/>
 
   <!-- name -->
   <text x="40" y="66" font-family="General Sans Variable, sans-serif" font-size="34" font-weight="700" fill="#EAEAEA">Ahmad Ali</text>
