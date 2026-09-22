@@ -1,34 +1,22 @@
-<div align="center">
+<img src="./assets/header.svg" alt="Ahmad Ali" width="100%">
 
-<table>
-<tr>
-<td>
+---
 
-```
-   <Ahmad_Ali />
-   also known as Deven
-   designer.exe → developer.exe → ai_ml.exe [learning...]
-```
+### Hey, I'm Ahmad aka Deven 👋
 
-# Ahmad Ali
-### Hey, I'm Deven 👋
-
-**Brand & UI/UX Designer** turned **WordPress / Web Developer**
-Building toward **Frontend → Full-Stack → AI/ML**
+Explore me at
 
 </td>
 </tr>
 </table>
 
-<br>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR-GITHUB" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://behance.net/YOUR-BEHANCE" target="_blank"><img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devenahmad/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/devenahmad" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.behance.net/devenahmad" target="_blank"><img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="http://instagram.com/devenahmad" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:totheahmad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=header)
 
 </div>
 
@@ -36,74 +24,45 @@ Building toward **Frontend → Full-Stack → AI/ML**
 
 ### 🧭 About
 
-I'm a Brand & UI/UX Designer and WordPress Developer with **5+ years of experience** in design and web builds. I'm currently pursuing my **BSCS** and working as an **AI/ML Intern at NETSOL Technologies**, actively moving my career from design into engineering.
+I'm a Brand & UI/UX Designer and WordPress Developer with 5+ years of experience in design and web builds. I'm currently pursuing my BSCS and struggling to become an AI/ML Engineer, actively moving my career from design into engineering.
 
 My path looks like this:
 
 ```
 Design  →  WordPress / Web Dev  →  Frontend  →  Full-Stack  →  AI/ML
- (solid)        (solid)           (learning)    (learning)    (exploring)
+(solid)    (solid)                 (solid)      (learning)    (exploring)
 ```
 
-I'm not claiming to be a full-stack or AI engineer yet — I'm documenting the transition as I build it, one project at a time.
+I'm not claiming to be a full-stack or AI engineer yet, I'm documenting the transition as I build it, one project at a time.
 
----
-
-### 🌱 Currently Learning / Building
-
-- Strengthening **JavaScript** fundamentals and modern frontend workflows
-- Deepening **Computer Science** foundations alongside my BSCS
-- Applying **AI/ML** concepts hands-on through my internship at NETSOL Technologies
-- Bridging my design background into **full-stack development**
-
----
-
-### 🛠️ Tech Stack
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-**Web / WordPress**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Currently Learning**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=0D9BE8&width=435&lines=building+things+to+understand+them.;a+timeline+of+me+getting+better+at+development.)](https://git.io/typing-svg)
 
 ---
 
 ### 🔭 Currently Exploring
 
 - 🎨 Web Development
-- 🖥️ Frontend Engineering
 - 🧩 Full-Stack Development
 - 🤖 AI / ML
 
----
 
-### 📌 Projects
+### 🛠️ Tech Stack
 
-> Adding real projects here as they're completed — this section will grow with my portfolio.
+**Design**
 
-<!--
-- [Project Name](link) — one-line description
--->
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#)
 
----
+**Web / WordPress**
 
-<div align="center">
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#)
+[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-*Designer becoming a Developer, exploring AI/ML — one commit at a time.*
+**Currently Learning**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
-
-</div>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
