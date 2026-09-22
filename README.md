@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Ahmad Ali" width="100%">
+<img src="./assets/header.svg" alt="Header - Ahmad Ali Intro Card" width="100%">
 
 ---
 
