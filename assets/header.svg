@@ -11,24 +11,24 @@
   </defs>
 
   <!-- card -->
-  <rect x="1" y="1" width="898" height="198" rx="18" fill="url(#bg)" stroke="#3a2a20" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="198" rx="18" fill="url(#bg)" stroke="#C3DAFF" stroke-width="1.5"/>
 
   <!-- name -->
-  <text x="40" y="66" font-family="General Sans Variable, sans-serif" font-size="34" font-weight="700" fill="#f6efe4">Ahmad Ali</text>
+  <text x="40" y="66" font-family="General Sans Variable, sans-serif" font-size="34" font-weight="700" fill="#C3DAFF">Ahmad Ali</text>
   <rect x="41" y="78" width="46" height="4" rx="2" fill="url(#accent)"/>
 
   <!-- tagline -->
-  <text x="40" y="106" font-family="General Sans Variable, sans-serif" font-size="16" fill="#d9c8ae">I Make Brands Look Better &amp; Websites Work Smarter</text>
+  <text x="40" y="106" font-family="General Sans Variable, sans-serif" font-size="16" fill="#EAEAEA">I Make Brands Look Better &amp; Websites Work Smarter</text>
 
   <!-- subtitle -->
   <text x="40" y="132" font-family="General Sans Variable, sans-serif" font-size="12" letter-spacing="0.5" fill="#C3DAFF">WordPress &amp; Custom Code &#8226; Web Development &#8594; AI/ML</text>
 
   <!-- right side stat-style facts (real, not fabricated) -->
   <g font-family="General Sans Variable, sans-serif" text-anchor="start">
-    <text x="600" y="38" font-size="11" letter-spacing="1" fill="#a38c6d">CURRENTLY</text>
-    <text x="600" y="64" font-size="20" font-weight="700" fill="#f6efe4">Full Stack Developer</text>
-    <text x="600" y="110" font-size="11" letter-spacing="1" fill="#a38c6d">Future Goal</text>
-    <text x="600" y="134" font-size="20" font-weight="700" fill="#f6efe4">AI Engineer</text>
+    <text x="600" y="38" font-size="11" letter-spacing="1" fill="#C3DAFF">CURRENTLY</text>
+    <text x="600" y="64" font-size="20" font-weight="700" fill="#EAEAEA">Full Stack Developer</text>
+    <text x="600" y="110" font-size="11" letter-spacing="1" fill="#C3DAFF">Future Goal</text>
+    <text x="600" y="134" font-size="20" font-weight="700" fill="#EAEAEA">AI Engineer</text>
   </g>
 
   <!-- neural / circuit node line -->
