@@ -35,7 +35,7 @@ Design  →  WordPress / Web Dev  →  Frontend  →  Full-Stack  →  AI/ML
 
 I'm not claiming to be a full-stack or AI engineer yet, I'm documenting the transition as I build it, one project at a time.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=0D9BE8&width=435&lines=a+log+of+me+becoming+a+developer.;building+to+understand+how+models+think.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=0D9BE8&width=435&lines=the+story+of+moving+towards+development.;building+to+understand+how+models+think.)](https://git.io/typing-svg)
 
 ---
 
